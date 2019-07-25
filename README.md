@@ -1,5 +1,6 @@
 # Bachelors-thesis-about-Software-Engineering-applied-to-Game-Development
 PDF and associated files for my Bachelor's thesis.
+
 Documented both Software &amp; Game Design of Both, a 2.5D platform game by [Gambusino Labs](http://gambusinolabs.com/)
 
 ## Example screenshots
@@ -43,5 +44,6 @@ Heavily inspired by Subject/Observable pattern
 
 ### Input System
 Abstraction layer for Unity's Raw Input System
+
 Heavily inspired by Producer/Consumer, Facade and Singleton patterns
 ![input-system-class-diagram.png](/images/input-system-class-diagram.png)
